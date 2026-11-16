@@ -1,0 +1,9 @@
+{
+  "name": "lizhi-image25-visual-ppt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Image-first visual slide skill and full-slide PPTX packager",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
