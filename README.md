@@ -38,3 +38,7 @@ node scripts/build_fullslide_deck.mjs --images-dir /path/to/pages --out /path/to
 第一条离线检查参数，第二条实际生成一页并保存模型请求记录，第三条按文件名数字顺序打包。图片式 PPT 中的文字不是原生可编辑文本；不要承诺中文零错误。参考图和 logo 的使用需要具备参考图输入能力的生成或编辑工具；随附 API 脚本仅支持文生图。
 
 流程：[SKILL.md](SKILL.md) · 模型接入：[image25-backend.md](references/image25-backend.md) · 样式：[style-catalog.md](references/style-catalog.md)
+
+## License
+
+[MIT](LICENSE)
